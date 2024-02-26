@@ -1,16 +1,25 @@
 ## FAUCET APP TEST
 
 ## Installation instructions
-$ git clone https://github.com/Basicbay/frontend-assingment-bay.git \
-$ cd project\
-$ npm install\
-$ npm run dev
-
+```console
+git clone https://github.com/Basicbay/frontend-assingment-bay.git
+```
+```console
+cd project
+```
+```console
+npm install
+```
+```console
+npm run dev
+```
 ## How to use the Docker image
 ```console
-$ docker build -t react-app .\
+docker build -t react-app .
 ```
-$ docker run -p 80:80 react-app   
+```console
+docker run -p 80:80 react-app
+```
 Run on URL : http://localhost:80
 
 ## Key Features
