@@ -1,5 +1,7 @@
 # FAUCET APP TEST
 
+![faucet](https://github.com/Basicbay/frontend-assingment-bay/assets/151770227/8f7e5502-a6b3-4bad-aee0-56f4230c493e)
+
 ## Installation instructions
 ```console
 git clone https://github.com/Basicbay/frontend-assingment-bay.git
