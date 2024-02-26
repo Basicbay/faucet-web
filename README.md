@@ -1,4 +1,4 @@
-## FAUCET APP TEST
+# FAUCET APP TEST
 
 ## Installation instructions
 ```console
