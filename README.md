@@ -1,4 +1,4 @@
-## FWX FAUCET APP TEST
+## FAUCET APP TEST
 
 ## Installation instructions
 $ git clone https://github.com/Basicbay/frontend-assingment-bay.git \
