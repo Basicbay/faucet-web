@@ -7,6 +7,9 @@ $ npm install\
 $ npm run dev
 
 ## How to use the Docker image
+$ docker build -t react-app .\
+$ docker run -p 80:80 react-app   
+Run on url : http://localhost:80
 
 ## Key Features
 
