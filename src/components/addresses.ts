@@ -1,5 +1,5 @@
 export const FAUCET_CONTRACT_ADDRESS =
-  "0xdb7CeFCeD64c77251fA8692f8B2302555647DaBD";
+  "<Please use contract address provided in email>";
 
 export const REQUIRED_TO_IMPLEMENT_FAUCET_TOKEN_ADDRESSES = [
   "0xf0dEDda1ecbEf742AA3DaE9c8D35E7fCb7fC3Ef6",
