@@ -1,5 +1,7 @@
 # Faucet Binance Testnet 💰
 
+URL https://bsc-faucet.netlify.app/
+
 ## Tech stack
 `Vite` `HTML` `CSS` `Typescript` `React` `Tailwind CSS` `Metamask Provider` `Ethers` `Docker`
 
