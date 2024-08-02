@@ -2,10 +2,10 @@
 
 ## Installation instructions
 ```console
-git clone https://github.com/Basicbay/frontend-assingment-bay.git
+git clone https://github.com/Basicbay/faucet-web.git
 ```
 ```console
-cd project
+cd faucet-web
 ```
 ```console
 npm install
