@@ -1,4 +1,7 @@
-# Faucet Binance Testnet
+# Faucet Binance Testnet 💰
+
+## Tech stack
+`Vite` `HTML` `CSS` `Typescript` `Tailwind CSS` `React` `Metamask Provider` `Ethers` `Docker`
 
 ## Installation instructions
 ```console
