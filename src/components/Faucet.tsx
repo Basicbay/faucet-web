@@ -228,12 +228,12 @@ const Faucet = () => {
 
   return (
 
-    <div className='bg-black grid place-content-center min-h-screen'>
-      <div className="bg-white grid gap-5 w-[500px] rounded-lg p-7">
+    <div className='bg-slate-800 grid place-content-center min-h-screen'>
+      <div className="bg-white grid gap-5 max-w-[600px] rounded-lg p-7">
 
-        <div className='flex justify-between'>
+        <div className='flex xl:flex-row flex-col xl:justify-between items-center gap-5'>
           <h1 className="text-4xl font-bold bg-clip-text text-center text-transparent bg-gradient-to-r from-blue-600 to-teal-500 ">
-            FWX Faucet
+            BSC Testnet Faucet
           </h1>
 
           {/* CONNECT METAMASK BUTTON */}
@@ -342,7 +342,7 @@ const Faucet = () => {
         {/* SEND TOKEN BUTTON */}
 
         {window.ethereum?.isMetaMask && wallet.chainId !== `0x${BSC_TESTNET_CHAIN_ID.toString(16)}` && (
-          <button className=' bg-blue-600 rounded-md text-nowrap text-white w-full p-2 my-5 font-medium '
+          <button className=' bg-red-600 rounded-md text-nowrap text-white w-full p-2 my-5 font-medium '
             onClick={handleConnect}>
             <>SWITCH TO BSC TESTNET</>
           </button>

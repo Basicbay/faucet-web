@@ -1,5 +1,4 @@
-export const FAUCET_CONTRACT_ADDRESS =
-  "<Please use contract address provided in email>";
+export const FAUCET_CONTRACT_ADDRESS = import.meta.env.VITE_FAUCET_CONTRACT_ADDRESS;
 
 export const REQUIRED_TO_IMPLEMENT_FAUCET_TOKEN_ADDRESSES = [
   "0xf0dEDda1ecbEf742AA3DaE9c8D35E7fCb7fC3Ef6",
